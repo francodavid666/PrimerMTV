@@ -20,7 +20,7 @@ from AppFami.views import fami
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path ("familiar/",fami ),
+    path ("familiar/",fami  ),
     
     
 ]
